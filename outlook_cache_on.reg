@@ -1,0 +1,9 @@
+; 12.0 = 2007
+; 14.0 = 2010
+; 15.0 = 2013
+; 16.0 = 2016+
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Outlook\ost]
+"NoOST"=dword:00000000
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Outlook\cached mode]
+"Enable"=dword:00000001

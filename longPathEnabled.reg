@@ -1,0 +1,2 @@
+[HKEY_CURRENT_USER\SYSTEM\CurrentControlSet\Control\FileSystem]
+"LongPathsEnabled"=dword:1
